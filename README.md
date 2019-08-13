@@ -8,6 +8,7 @@ The following data mining algorithms are implemented by the application:
 2. Association using Apriori algorithm
 3. Classification using Naïve Bayesian algorithm
 4. Prediction using Regression algorithm
+
 The application, a dynamic web project was developed using Eclipse IDE.
 The project was built on the MVC model- Model, View and Controller.
 The Model brings the data from the database every time the application is loaded.
