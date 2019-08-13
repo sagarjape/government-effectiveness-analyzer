@@ -1,0 +1,6 @@
+Step 1: Create a dynamic web project in eclipse.
+Step 2: Replace the src and WebContent folders with those present in the dmbi zip file.
+Step 3: Download the postgresql-9.4.1208.jar file and paste it in WebContent\WEB-INF\lib folder.
+Step 4: Create the database tables in postgres.
+Step 5: Execute your project.
+
